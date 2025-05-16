@@ -3,7 +3,7 @@ function goToPage(platform) {
     vercel: "https://project-vercel-five.vercel.app/",
     railway: "https://tu-railway-app.up.railway.app",
     digitalocean: "https://tu-digitalocean-app.com",
-    heroku: "https://tu-heroku-app.herokuapp.com"
+    heroku: "https://nodeheroku-68e9898d21c7.herokuapp.com/"
   };
 
   window.location.href = urls[platform];
