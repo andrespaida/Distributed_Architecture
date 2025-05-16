@@ -1,7 +1,7 @@
 function goToPage(platform) {
   const urls = {
     vercel: "https://project-vercel-five.vercel.app/",
-    railway: "https://tu-railway-app.up.railway.app",
+    railway: "https://holamundopy-production.up.railway.app/",
     digitalocean: "https://tu-digitalocean-app.com",
     heroku: "https://nodeheroku-68e9898d21c7.herokuapp.com/"
   };
